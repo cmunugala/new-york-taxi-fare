@@ -7,6 +7,7 @@ The notebook is provided as a pdf for viewing.
 
 Skills highlighted in this project:
 
+- Machine Learning/Neural Networks (PyTorch)
 - Feature Engineering
 - Data Visualization
-- Machine Learning (PyTorch)
+
